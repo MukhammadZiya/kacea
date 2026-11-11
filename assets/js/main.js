@@ -71,7 +71,9 @@
 
   // Initial language was decided in <head>; just fill in the text.
   apply(SUPPORTED.indexOf(root.lang) >= 0 ? root.lang : 'en');
-  requestAnimationFrame(function () { root.classList.remove('i18n-pending'); });
+  function reveal() { root.classList.remove('i18n-pending'); }
+  requestAnimationFrame(reveal);
+  window.setTimeout(reveal, 300); // fallback when animation frames are paused
 
   /* ---------------- Header state ---------------- */
   var header = document.querySelector('.site-header');
