@@ -292,6 +292,7 @@ html.i18n-swap main, html.i18n-swap .site-footer, html.i18n-swap .main-nav, html
 .about-img:hover img { transform: scale(1.05); }
 .about-img--a { inset-inline-start: 0; top: 0; width: 64%; height: 70%; }
 .about-img--b { inset-inline-end: 0; bottom: 0; width: 48%; height: 66%; border: 8px solid var(--paper); }
+.about-img--b img { object-position: 50% 15%; }
 .about-star {
   position: absolute; inset-inline-end: 8%; top: 4%; width: 96px; height: 96px;
   background: var(--star) center / 96px 96px; opacity: 1;
@@ -328,6 +329,8 @@ html.i18n-swap main, html.i18n-swap .site-footer, html.i18n-swap .main-nav, html
 .project-media { position: relative; border-radius: var(--radius); overflow: hidden; aspect-ratio: 4 / 3.2; box-shadow: var(--shadow); }
 .project-media img { width: 100%; height: 100%; object-fit: cover; transition: transform 1.4s var(--ease); }
 .project:hover .project-media img { transform: scale(1.045); }
+.project-media--portrait { aspect-ratio: 4 / 5; max-width: 480px; width: 100%; justify-self: center; }
+.project-media--portrait img { object-position: 50% 20%; }
 .project-media::after {
   content: ""; position: absolute; inset: 14px; border: 1px solid rgba(247,242,232,.5); border-radius: calc(var(--radius) - 8px); pointer-events: none;
 }

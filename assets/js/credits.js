@@ -1,14 +1,6 @@
 /* Photo credits — Wikimedia Commons */
 window.KACEA_CREDITS = [
   {
-    "id": "hero-korea",
-    "title": "Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul",
-    "author": "Frank Schulenburg",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg"
-  },
-  {
     "id": "hero-arab",
     "title": "Muscat, moschea del sultano qaboos, esterno 01",
     "author": "Francesco Bini",
@@ -33,44 +25,12 @@ window.KACEA_CREDITS = [
     "source": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg"
   },
   {
-    "id": "project-youth",
-    "title": "Female Hanbok From South Korea",
-    "author": "IssamBarhoumi",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Female_Hanbok_From_South_Korea.jpg"
-  },
-  {
-    "id": "project-media",
-    "title": "Buk a Korean Traditional Drum",
-    "author": "IssamBarhoumi",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Buk_a_Korean_Traditional_Drum.jpg"
-  },
-  {
-    "id": "g-dancheong",
-    "title": "Finely painted wooden ceiling of Jibokjae Hall seen from below at Gyeongbokgung Palace in Seoul",
-    "author": "Basile Morin",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Finely_painted_wooden_ceiling_of_Jibokjae_Hall_seen_from_below_at_Gyeongbokgung_Palace_in_Seoul.jpg"
-  },
-  {
     "id": "g-dome",
     "title": "Muscat, moschea del sultano qaboos, interno, grande sala di preghiera, cupola 01",
     "author": "Francesco Bini",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Muscat,_moschea_del_sultano_qaboos,_interno,_grande_sala_di_preghiera,_cupola_01.jpg"
-  },
-  {
-    "id": "g-palace",
-    "title": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul",
-    "author": "Basile Morin",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg"
   },
   {
     "id": "g-arches",
@@ -89,14 +49,6 @@ window.KACEA_CREDITS = [
     "source": "https://commons.wikimedia.org/wiki/File:Wadi_rum_desert.jpg"
   },
   {
-    "id": "g-pavilion",
-    "title": "Water reflection of Hyangwonjeong Pavilion at Gyeongbokgung Palace in Seoul",
-    "author": "Basile Morin",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Hyangwonjeong_Pavilion_at_Gyeongbokgung_Palace_in_Seoul.jpg"
-  },
-  {
     "id": "cta-sunset",
     "title": "Sheikh Zayed Mosque Silhouette",
     "author": "PotatoWitch",
@@ -111,5 +63,53 @@ window.KACEA_CREDITS = [
     "license": "CC0",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "source": "https://commons.wikimedia.org/wiki/File:Nasrid_motto_Alhambra_Granada_Andalusia_Spain.jpg"
+  },
+  {
+    "id": "hero-seoul",
+    "title": "Korea Seoul after April Showers 06 (14049143006)",
+    "author": "Republic of Korea from Seoul, Republic of Korea",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Korea_Seoul_after_April_Showers_06_(14049143006).jpg"
+  },
+  {
+    "id": "about-jangot",
+    "title": "(Korean woman wrapped in cloak) (4096117594)",
+    "author": "Cornell University Library",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "source": "https://commons.wikimedia.org/wiki/File:(Korean_woman_wrapped_in_cloak)_(4096117594).jpg"
+  },
+  {
+    "id": "project-youth-jangot",
+    "title": "Korean women on an outing",
+    "author": "Cornell University Library",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/",
+    "source": "https://commons.wikimedia.org/wiki/File:Korean_women_on_an_outing.jpg"
+  },
+  {
+    "id": "project-media-jeju",
+    "title": "Seongsan-ri town at blue hour seen from Seongsan Ilchulbong volcano Jeju Island South Korea",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seongsan-ri_town_at_blue_hour_seen_from_Seongsan_Ilchulbong_volcano_Jeju_Island_South_Korea.jpg"
+  },
+  {
+    "id": "g-jeju",
+    "title": "Hydrangea macrophylla in front of Seongsan Ilchulbong volcano at blue hour in Jeju Island South Korea",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg"
+  },
+  {
+    "id": "g-seorak",
+    "title": "Seoraksan National Park Korea 21",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seoraksan_National_Park_Korea_21.jpg"
   }
 ];

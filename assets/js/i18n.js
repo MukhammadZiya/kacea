@@ -20,7 +20,7 @@ window.KACEA_I18N = {
     "hero.lead": "We bring Koreans and Arab & Islamic communities closer through two-way cultural education, settlement support, youth networks and media.",
     "hero.cta1": "Explore our projects",
     "hero.cta2": "Get involved",
-    "hero.capKorea": "Gyeonghoeru, Gyeongbokgung Palace · Seoul",
+    "hero.capKorea": "Seoul Central Mosque, Itaewon · Seoul",
     "hero.capArab": "Sultan Qaboos Grand Mosque · Muscat",
 
     "about.eyebrow": "Who we are",
@@ -66,7 +66,7 @@ window.KACEA_I18N = {
     "p2.m2": "With local support centers",
     "p2.m3": "Weekend & holiday trips",
 
-    "p3.alt": "Two young women in hanbok at Gyeongbokgung Palace",
+    "p3.alt": "Korean women wearing the jang-ot veil, early 20th-century postcard",
     "p3.label": "Youth & Network",
     "p3.name": "Future Leaders",
     "p3.sub": "Korea–Arab Youth Supporters and partnerships at home and abroad",
@@ -80,7 +80,7 @@ window.KACEA_I18N = {
     "p3.m2": "Semiannual workshops",
     "p3.m3": "~30 youth supporters",
 
-    "p4.alt": "A painted Korean traditional drum (buk) at Gyeongbokgung Palace",
+    "p4.alt": "Seongsan-ri town at blue hour, Jeju Island",
     "p4.label": "Media & Publications",
     "p4.name": "Voices of Empathy",
     "p4.sub": "Korea–Arab emotional communication through media and publications",
@@ -102,10 +102,10 @@ window.KACEA_I18N = {
 
     "gallery.eyebrow": "Two heritages",
     "gallery.title": "Two heritages, one conversation",
-    "gallery.lead": "From the painted beams of Gyeongbokgung to the arches of Muscat — the beauty of both worlds, side by side.",
-    "gallery.c1": "Dancheong ceiling, Jibokjae Hall · Seoul",
+    "gallery.lead": "From the volcanic shores of Jeju to the arches of Muscat — the beauty of both worlds, side by side.",
+    "gallery.c1": "Seongsan Ilchulbong · Jeju Island",
     "gallery.c2": "Prayer hall dome, Sultan Qaboos Grand Mosque · Muscat",
-    "gallery.c3": "Geunjeongjeon Throne Hall · Seoul",
+    "gallery.c3": "Seoraksan National Park · Gangwon",
     "gallery.c4": "Arcades of the Grand Mosque · Muscat",
     "gallery.c5": "Wadi Rum desert · Jordan",
 
@@ -144,7 +144,7 @@ window.KACEA_I18N = {
     "hero.lead": "쌍방향 문화교육, 정착 지원, 청년 네트워크, 미디어를 통해 한국인과 아랍·이슬람 공동체가 더 가까워지도록 돕습니다.",
     "hero.cta1": "주요 사업 보기",
     "hero.cta2": "참여하기",
-    "hero.capKorea": "경복궁 경회루 · 서울",
+    "hero.capKorea": "한국이슬람교 서울중앙성원, 이태원 · 서울",
     "hero.capArab": "술탄 카부스 그랜드 모스크 · 무스카트",
 
     "about.eyebrow": "협회 소개",
@@ -190,7 +190,7 @@ window.KACEA_I18N = {
     "p2.m2": "지역 외국인지원센터 협력",
     "p2.m3": "주말·방학 현장 탐방",
 
-    "p3.alt": "경복궁에서 한복을 입은 두 젊은 여성",
+    "p3.alt": "장옷을 쓴 한국 여성들, 20세기 초 엽서",
     "p3.label": "청년 · 네트워크",
     "p3.name": "퓨처 리더스",
     "p3.sub": "한-아랍 청년 서포터즈와 국내외 기관 협력",
@@ -204,7 +204,7 @@ window.KACEA_I18N = {
     "p3.m2": "반기별 워크숍",
     "p3.m3": "청년 서포터즈 약 30명",
 
-    "p4.alt": "경복궁의 화려한 한국 전통 북",
+    "p4.alt": "푸른 저녁 빛의 제주 성산리 마을",
     "p4.label": "미디어 · 출판",
     "p4.name": "공감의 목소리",
     "p4.sub": "미디어와 출판을 통한 한-아랍 정서적 소통",
@@ -226,10 +226,10 @@ window.KACEA_I18N = {
 
     "gallery.eyebrow": "두 개의 유산",
     "gallery.title": "두 개의 유산, 하나의 대화",
-    "gallery.lead": "경복궁의 단청에서 무스카트의 아치까지 — 두 세계의 아름다움을 나란히 담았습니다.",
-    "gallery.c1": "집옥재 단청 천장 · 서울",
+    "gallery.lead": "제주의 화산 해안에서 무스카트의 아치까지 — 두 세계의 아름다움을 나란히 담았습니다.",
+    "gallery.c1": "성산일출봉 · 제주",
     "gallery.c2": "술탄 카부스 그랜드 모스크 예배당 돔 · 무스카트",
-    "gallery.c3": "경복궁 근정전 · 서울",
+    "gallery.c3": "설악산 국립공원 · 강원",
     "gallery.c4": "그랜드 모스크 회랑 · 무스카트",
     "gallery.c5": "와디 럼 사막 · 요르단",
 
@@ -268,7 +268,7 @@ window.KACEA_I18N = {
     "hero.lead": "نقرّب بين الكوريين والمجتمعات العربية والإسلامية من خلال التعليم الثقافي المتبادل، ودعم الاستقرار، وشبكات الشباب، والإعلام.",
     "hero.cta1": "استكشف مشاريعنا",
     "hero.cta2": "شارك معنا",
-    "hero.capKorea": "جناح كيونغهويرو، قصر كيونغبوكغونغ · سيول",
+    "hero.capKorea": "مسجد سيول المركزي، إيتايوون · سيول",
     "hero.capArab": "جامع السلطان قابوس الأكبر · مسقط",
 
     "about.eyebrow": "من نحن",
@@ -314,7 +314,7 @@ window.KACEA_I18N = {
     "p2.m2": "بالتعاون مع مراكز الدعم المحلية",
     "p2.m3": "رحلات في العطل ونهايات الأسبوع",
 
-    "p3.alt": "شابتان ترتديان الهانبوك في قصر كيونغبوكغونغ",
+    "p3.alt": "نساء كوريات يرتدين غطاء «جانغ-أوت»، بطاقة بريدية من أوائل القرن العشرين",
     "p3.label": "الشباب والشبكات",
     "p3.name": "قادة المستقبل",
     "p3.sub": "سفراء الشباب الكوري العربي والشراكات داخل كوريا وخارجها",
@@ -328,7 +328,7 @@ window.KACEA_I18N = {
     "p3.m2": "ورش عمل نصف سنوية",
     "p3.m3": "نحو 30 من سفراء الشباب",
 
-    "p4.alt": "طبل كوري تقليدي مزخرف (بوك) في قصر كيونغبوكغونغ",
+    "p4.alt": "بلدة سونغسان-ري عند الغسق، جزيرة جيجو",
     "p4.label": "الإعلام والنشر",
     "p4.name": "أصوات التعاطف",
     "p4.sub": "التواصل الوجداني الكوري العربي عبر الإعلام والنشر",
@@ -350,10 +350,10 @@ window.KACEA_I18N = {
 
     "gallery.eyebrow": "إرثان",
     "gallery.title": "إرثان، وحوار واحد",
-    "gallery.lead": "من زخارف قصر كيونغبوكغونغ إلى أقواس مسقط — جمال العالمين جنباً إلى جنب.",
-    "gallery.c1": "سقف مزخرف بفن الدانتشيونغ، قاعة جيبوكجاي · سيول",
+    "gallery.lead": "من شواطئ جيجو البركانية إلى أقواس مسقط — جمال العالمين جنباً إلى جنب.",
+    "gallery.c1": "قمة سونغسان إيلتشولبونغ · جزيرة جيجو",
     "gallery.c2": "قبة قاعة الصلاة، جامع السلطان قابوس الأكبر · مسقط",
-    "gallery.c3": "قاعة العرش كونجونغجون · سيول",
+    "gallery.c3": "منتزه سوراكسان الوطني · غانغوون",
     "gallery.c4": "أروقة الجامع الأكبر · مسقط",
     "gallery.c5": "صحراء وادي رم · الأردن",
 
