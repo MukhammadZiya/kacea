@@ -492,3 +492,6 @@ html.i18n-swap main, html.i18n-swap .site-footer, html.i18n-swap .main-nav, html
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
   .js .reveal { opacity: 1; transform: none; }
 }
+
+.btn-icon { width: 18px; height: 18px; flex: none; }
+[dir="rtl"] .footer-links a[dir="ltr"] { text-align: right; }

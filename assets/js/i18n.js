@@ -118,8 +118,6 @@ window.KACEA_I18N = {
     "join.c2d": "Embassies, schools, NGOs and local governments — let’s build programs together.",
     "join.c3t": "Join a program",
     "join.c3d": "Language classes, culture academy lectures and family field trips throughout the year.",
-    "join.contact": "Contact us",
-    "join.newsletter": "Subscribe to the newsletter",
 
     "footer.location": "Cheongju, Republic of Korea",
     "footer.credits": "Photo credits",
@@ -244,8 +242,6 @@ window.KACEA_I18N = {
     "join.c2d": "대사관, 학교, NGO, 지방자치단체 — 함께 프로그램을 만들어 갑니다.",
     "join.c3t": "프로그램 참여",
     "join.c3d": "한국어 강좌, 문화 아카데미 강연, 가족 현장 탐방이 연중 열립니다.",
-    "join.contact": "문의하기",
-    "join.newsletter": "뉴스레터 구독",
 
     "footer.location": "대한민국 청주",
     "footer.credits": "사진 출처",
@@ -370,8 +366,6 @@ window.KACEA_I18N = {
     "join.c2d": "السفارات والمدارس والمنظمات غير الحكومية والحكومات المحلية — لنبنِ البرامج معاً.",
     "join.c3t": "شارك في برامجنا",
     "join.c3d": "دروس اللغة، ومحاضرات أكاديمية الثقافة، والرحلات العائلية على مدار العام.",
-    "join.contact": "تواصل معنا",
-    "join.newsletter": "اشترك في النشرة الإخبارية",
 
     "footer.location": "تشيونغجو، جمهورية كوريا",
     "footer.credits": "مصادر الصور",
