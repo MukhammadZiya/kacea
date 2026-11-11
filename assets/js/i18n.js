@@ -123,7 +123,6 @@ window.KACEA_I18N = {
 
     "footer.location": "Chungju, Republic of Korea",
     "footer.credits": "Photo credits",
-    "footer.rights": "All rights reserved.",
     "credits.note": "Photos from Wikimedia Commons, used under their respective licenses."
   },
 
@@ -250,7 +249,6 @@ window.KACEA_I18N = {
 
     "footer.location": "대한민국 충주",
     "footer.credits": "사진 출처",
-    "footer.rights": "모든 권리 보유.",
     "credits.note": "위키미디어 공용의 사진을 각 라이선스에 따라 사용했습니다."
   },
 
@@ -377,7 +375,6 @@ window.KACEA_I18N = {
 
     "footer.location": "تشونغجو، جمهورية كوريا",
     "footer.credits": "مصادر الصور",
-    "footer.rights": "جميع الحقوق محفوظة.",
     "credits.note": "الصور من ويكيميديا كومنز، مستخدمة وفق تراخيصها."
   }
 };
