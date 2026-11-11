@@ -49,7 +49,7 @@ window.KACEA_I18N = {
     "p1.i3t": "Korea–Arab civilian diplomacy research",
     "p1.i3d": "Research and regular seminars with educational institutions on reducing conflict in a multicultural society.",
     "p1.m1": "Quarterly · 4 times a year",
-    "p1.m2": "Chungju & online",
+    "p1.m2": "Cheongju & online",
     "p1.m3": "~50 participants",
 
     "p2.alt": "Hanok houses along a street in Bukchon Hanok Village, Seoul, at blue hour",
@@ -121,7 +121,7 @@ window.KACEA_I18N = {
     "join.contact": "Contact us",
     "join.newsletter": "Subscribe to the newsletter",
 
-    "footer.location": "Chungju, Republic of Korea",
+    "footer.location": "Cheongju, Republic of Korea",
     "footer.credits": "Photo credits",
     "credits.note": "Photos from Wikimedia Commons, used under their respective licenses."
   },
@@ -175,7 +175,7 @@ window.KACEA_I18N = {
     "p1.i3t": "한-아랍 민간외교 학술연구",
     "p1.i3d": "교육기관과 협력하여 다문화 사회의 갈등 완화 방안을 연구하고 정기 세미나를 개최합니다.",
     "p1.m1": "분기별 · 연 4회",
-    "p1.m2": "충주 및 온라인",
+    "p1.m2": "청주 및 온라인",
     "p1.m3": "약 50명 참여",
 
     "p2.alt": "푸른 저녁 빛의 서울 북촌 한옥마을 골목",
@@ -247,7 +247,7 @@ window.KACEA_I18N = {
     "join.contact": "문의하기",
     "join.newsletter": "뉴스레터 구독",
 
-    "footer.location": "대한민국 충주",
+    "footer.location": "대한민국 청주",
     "footer.credits": "사진 출처",
     "credits.note": "위키미디어 공용의 사진을 각 라이선스에 따라 사용했습니다."
   },
@@ -301,7 +301,7 @@ window.KACEA_I18N = {
     "p1.i3t": "أبحاث الدبلوماسية الشعبية الكورية العربية",
     "p1.i3d": "أبحاث وندوات دورية بالتعاون مع المؤسسات التعليمية حول الحدّ من النزاعات في المجتمع متعدد الثقافات.",
     "p1.m1": "فصلياً · 4 مرات في السنة",
-    "p1.m2": "تشونغجو وعبر الإنترنت",
+    "p1.m2": "تشيونغجو وعبر الإنترنت",
     "p1.m3": "نحو 50 مشاركاً",
 
     "p2.alt": "بيوت الهانوك التقليدية في قرية بوكتشون بسيول عند الغسق",
@@ -373,7 +373,7 @@ window.KACEA_I18N = {
     "join.contact": "تواصل معنا",
     "join.newsletter": "اشترك في النشرة الإخبارية",
 
-    "footer.location": "تشونغجو، جمهورية كوريا",
+    "footer.location": "تشيونغجو، جمهورية كوريا",
     "footer.credits": "مصادر الصور",
     "credits.note": "الصور من ويكيميديا كومنز، مستخدمة وفق تراخيصها."
   }
